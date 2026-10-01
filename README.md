@@ -31,7 +31,7 @@ This project presents an **AI-based Fire and Smoke Detection System** specifical
 
 ## 🧠 Model & Dataset
 * **Architecture:** YOLOv8 (Ultralytics)
-* **Dataset Platform:** Roboflow
+* **Dataset:** fire and smoke Computer Vision Dataset - Roboflow
 * **Classes:** `Fire`, `Smoke`
 * **Training Environment:** Google Colab (Tesla T4 GPU)
 * **Model Weight File:** `best.pt`
